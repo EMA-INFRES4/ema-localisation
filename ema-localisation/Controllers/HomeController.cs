@@ -8,7 +8,6 @@ using System.Web.Mvc;
 namespace ema_localisation.Controllers
 {
 
-    [TimerFilter]
     public class HomeController : Controller
     {
         //
